@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="ff8e2e93-2cf9-4c66-997d-41aff3b00c12" name="evidence.db Mapping">
+      <data-sources db="c38cd46d-6420-470e-bda4-2d3415afa7ec" ddl="496437e5-7661-435b-ad61-4735a56ad323" />
+      <scope>
+        <node negative="1">
+          <node kind="schema" qname="main" />
+          <node kind="database" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="496437e5-7661-435b-ad61-4735a56ad323" />
+          <option name="name" value="evidence.db (DDL)" />
+          <option name="dbmsName" value="SQLITE" />
+          <option name="urls">
+            <array />
+          </option>
+          <option name="remarks" value="project" />
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
